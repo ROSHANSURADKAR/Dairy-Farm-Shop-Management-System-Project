@@ -1,1 +1,1 @@
-# Dairy-Farm-Shop-Management-System-Project
+# Dairy-Farm-Shop-Project
